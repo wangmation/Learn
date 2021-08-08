@@ -14,3 +14,5 @@ print(summary(relation))
 
 # Graphing
 plot(weight,height,main="Linear Regression of Height and Weight")
+
+
